@@ -3,7 +3,7 @@ package Polymorphism;
 public class MethodOverRiding extends MorNew {
 
 	public void mor1() {
-		String Name = "Rio";
+		String Name = "Rio";   //method overrided
 		int Phoneno = 487554;
 		String Gmail = "gow@gmail.com";
 		String DOB = "12.05.97";
